@@ -70,4 +70,4 @@ venv\Scripts\python.exe test.py
 
 ## Remote Repository
 
-This workspace is connected to `https://github.com/AnshikaMishra99/GenerativeAI.git`.
+This workspace is connected to `https://github.com/Aryajais911/GenerativeAi`.
